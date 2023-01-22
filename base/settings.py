@@ -14,9 +14,9 @@ SECRET_KEY = 'django-insecure-nhu-ldafgy8k)eyfb%(z5yt@%&*6anctshgg*l((p*!v42vwjl
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'ssenyonga_samuel-ranks-portofolio.up.railway.app']
+ALLOWED_HOSTS = ['127.0.0.1', 'myportofolio-samuelssenyonga.up.railway.app']
 
-CSRF_TRUSTED_ORIGINS = ['https://127.0.0.1', 'https://ssenyonga_samuel-ranks-portofolio.up.railway.app']
+CSRF_TRUSTED_ORIGINS = ['https://127.0.0.1', 'https://myportofolio-samuelssenyonga.up.railway.app']
 
 # Application definition
 
